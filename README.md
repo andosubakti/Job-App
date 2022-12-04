@@ -28,7 +28,7 @@ yarn dev
 Run Production Mode
 
 ```bash
-yarn dev
+yarn build
 ```
 
 ```bash
